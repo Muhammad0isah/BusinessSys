@@ -1,0 +1,78 @@
+
+
+.material-details-form {
+    text-align: center;
+
+    background-color: #f2f2f2;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.material-details-form h2 {
+    color: #333;
+    font-size: 24px;
+}
+
+.material-details-form form {
+    margin: auto;
+    max-width: 300px; 
+    margin-top: 15px;
+    
+}
+
+.material-details-form form input,
+.material-details-form form select,
+.material-details-form form textarea {
+    display: block;
+    width: 100%; 
+    margin-bottom: 10px;
+    
+}
+
+.material-details-form input[type="submit"] {
+    background-color: #033747;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.material-details-form input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+
+.add-asset-form {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.add-asset-form h2 {
+    color: #333;
+    font-size: 24px;
+}
+
+.add-asset-form form {
+    margin: auto;
+    max-width: 400px; 
+    margin-top: 15px;
+    
+}
+
+.add-asset-form form button {
+    background-color: #033747;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-asset-form form button:hover {
+    background-color: #45a049;
+}
